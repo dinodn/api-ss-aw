@@ -1,0 +1,3 @@
+Run api like below after launching the script. 
+
+curl "http://localhost:5000/spawnssh?user=*****&pwd=******"
